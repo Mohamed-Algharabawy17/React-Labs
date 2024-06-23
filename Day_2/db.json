@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "id": "7",
+      "title": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 1499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Samsung",
+      "category": "laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/713icYPjIZL._AC_SX679_.jpg",
+      "image": "https://m.media-amazon.com/images/I/713icYPjIZL._AC_SX679_.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Microsoft Surface Laptop 4",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics.",
+      "price": 1499,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 68,
+      "brand": "Microsoft Surface",
+      "category": "laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/512rfPA6vgL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "image": "https://m.media-amazon.com/images/I/512rfPA6vgL.__AC_SY300_SX300_QL70_ML2_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Infinix new product",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "price": 1099.22,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "Infinix",
+      "category": "laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/71WvX5DEUyL._AC_SX679_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71WvX5DEUyL._AC_SX679_.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Sony WH-1000XM4 Wireless Noise-Cancelling Headphones",
+      "description": "Industry-leading noise cancellation and premium sound quality with Sony's LDAC technology.",
+      "price": 349,
+      "discountPercentage": 5.5,
+      "rating": 4.75,
+      "stock": 34,
+      "brand": "Sony",
+      "category": "headphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/41xvg7mwu3L.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "image": "https://m.media-amazon.com/images/I/41xvg7mwu3L.__AC_SX300_SY300_QL70_ML2_.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Apple Watch Series 7",
+      "description": "The most advanced Apple Watch yet, featuring a larger, always-on Retina display.",
+      "price": 399,
+      "discountPercentage": 0,
+      "rating": 4.9,
+      "stock": 112,
+      "brand": "Apple",
+      "category": "wearables",
+      "thumbnail": "https://m.media-amazon.com/images/I/61ikZoPlVNL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61ikZoPlVNL.__AC_SY300_SX300_QL70_ML2_.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Bose QuietComfort 45 Wireless Headphones",
+      "description": "Immersive sound, superior comfort, and long-lasting battery life for all-day listening.",
+      "price": 329,
+      "discountPercentage": 8.5,
+      "rating": 4.8,
+      "stock": 50,
+      "brand": "Bose",
+      "category": "headphones",
+      "thumbnail": "https://wayupsports.com/cdn/shop/files/866724-0200_bose_2cbb5db6-626f-4659-9d49-e8f3717b4c7a.jpg?v=1695818750&width=800",
+      "image": "https://wayupsports.com/cdn/shop/files/866724-0200_bose_2cbb5db6-626f-4659-9d49-e8f3717b4c7a.jpg?v=1695818750&width=800   "
+    },
+    {
+      "id": "13",
+      "title": "Dell UltraSharp U2720Q 27-Inch 4K Monitor",
+      "description": "Exceptional color accuracy and immersive viewing experience with 4K resolution.",
+      "price": 629,
+      "discountPercentage": 12,
+      "rating": 4.65,
+      "stock": 24,
+      "brand": "Dell",
+      "category": "monitors",
+      "thumbnail": "https://m.media-amazon.com/images/I/61XfwavpqyL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61XfwavpqyL.__AC_SY300_SX300_QL70_ML2_.jpg"
+    }
+  ]
+}

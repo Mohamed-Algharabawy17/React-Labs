@@ -1,0 +1,127 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  padding: 20px;
+}
+
+.card {
+  width: 100%;
+  max-width: 800px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.cardHeader {
+  background-color: #007bff;
+  color: #fff;
+  padding: 15px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.cardHeaderTitle {
+  font-size: 1.8rem;
+  margin: 0;
+  text-align: center;
+}
+
+.cardBody {
+  padding: 20px;
+}
+
+.productDetails {
+  display: flex;
+  align-items: center;
+}
+
+.productImageContainer {
+  flex: 0 0 40%;
+  max-width: 40%;
+  text-align: center;
+}
+
+.productImage {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.productInfo {
+  flex: 1;
+  padding-left: 20px;
+}
+
+.productTitle {
+  font-size: 1.5rem;
+  margin: 0 0 10px;
+}
+
+.productDescription {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.productPrice {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.buttonGroup {
+  margin-top: 15px;
+}
+
+.button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.addButton {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.editButton {
+  background-color: #ffc107;
+  color: #000;
+  margin-left: 10px;
+}
+
+.deleteButton {
+  background-color: #dc3545;
+  color: #fff;
+  margin-left: 10px;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+@media (max-width: 768px) {
+  .cardHeaderTitle {
+    font-size: 1.5rem;
+  }
+
+  .productImageContainer {
+    max-width: 30%;
+  }
+
+  .productInfo {
+    padding-left: 15px;
+  }
+
+  .button {
+    font-size: 0.9rem;
+    padding: 8px 15px;
+  }
+}
